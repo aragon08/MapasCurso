@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapasCurso</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="strVistaNormal">Vista Normal</string>
+    <string name="strVistaSatelite">Vista Satelite</string>
+    <string name="strVistaHibrida">Vista Hibrida</string>
+    <string name="strVistaRelieve">Vista Relieve</string>
+</resources>

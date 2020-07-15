@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itmVistaNormal"
+        android:title="@string/strVistaNormal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/itmVistaSatelite"
+        android:title="@string/strVistaSatelite"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itmVistaHibrida"
+        android:title="@string/strVistaHibrida"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/itmVistaRelieve"
+        android:title="@string/strVistaRelieve"
+        app:showAsAction="never"/>
+
+
+</menu>
